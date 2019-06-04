@@ -1,5 +1,12 @@
 # MemotaFrontend
-Angular web application for showcasing IOTA cryptocurrency. This is still in development and doesn't do
+Angular web application for showcasing IOTA cryptocurrency. This is still in development and doesn't do much yet. 
+
+At the moment, all it does is connect to a websocket of the memota-backend project and show an alert when a new transaction 
+on the seed used in the backend is found. 
+
+The backend project can be found here: https://github.com/matfriedrich/memota-backend .
+
+This readme will be updated as development progresses.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.3.
 
